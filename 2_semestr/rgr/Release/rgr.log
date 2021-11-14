@@ -1,0 +1,7 @@
+﻿  rgr.cpp
+D:\Programming\PrOgRaMmInG\Scripts\C++\rgr\rgr.cpp(88,82): warning C4805: ==: небезопасное смешение типа "double" и типа "bool" в операции
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  rgr.vcxproj -> D:\Programming\PrOgRaMmInG\Scripts\C++\rgr\Release\rgr.exe
